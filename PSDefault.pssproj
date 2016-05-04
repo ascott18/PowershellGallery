@@ -71,7 +71,6 @@
     <Compile Include="Functions\New-PSCustomObject.ps1" />
     <Compile Include="Functions\PowerShellScripting.ps1" />
     <Compile Include="Functions\Program.ps1" />
-    <Compile Include="Functions\Protect-WordDocument.ps1" />
     <Compile Include="Functions\Reflection.ps1" />
     <Compile Include="Functions\TCX.ps1" />
     <Compile Include="Functions\TFS.ps1" />
@@ -79,6 +78,7 @@
     <Compile Include="Functions\VSProject.ps1" />
     <Compile Include="Functions\WindowsSearchIndex.ps1" />
     <Compile Include="Functions\WindowsShortcut.ps1" />
+    <Compile Include="Functions\WordDocument.ps1" />
     <Compile Include="Functions\__Colorizer.ps1.__" />
     <Compile Include="Functions\__Get-Disk.ps1.__" />
     <Compile Include="Install.ps1" />
